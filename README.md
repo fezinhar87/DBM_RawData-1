@@ -4,4 +4,4 @@ Polskie Rawdaty DBM'a
 
 ## Promowane Raw-Daty:
 
-[Przykład](przykład.xd)
+[Przykład](przykład.xd) przez: Nazwa
